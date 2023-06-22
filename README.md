@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://github.com/khushahalichauhan">
-    <img src="logo/micon.jpg" border-radius="20px" width="65" alt="Khushahali Chauhan" /></a>
+    <img src="logo/micon.png" border-radius="20px" width="65" alt="Khushahali Chauhan" /></a>
 </p>
 
 
