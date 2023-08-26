@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br>
-<details open> 
+<!--<details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/khushahalichauhan?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-</details>
+</details>-->
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
